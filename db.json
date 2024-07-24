@@ -34,6 +34,10 @@
         {
           "id": "7",
           "name": "ShadCN UI"
+        },
+        {
+          "id": "8",
+          "name": "Redux Toolkit"
         }
       ],
       "github": "https://github.com/noxxxd01/expense",
@@ -71,6 +75,10 @@
         {
           "id": "6",
           "name": "TailwindCSS"
+        },
+        {
+          "id": "7",
+          "name": "Redux Toolkit"
         }
       ],
       "github": "https://github.com/noxxxd01/pintr.",
